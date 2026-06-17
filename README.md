@@ -65,7 +65,7 @@ System Administrator & Full Stack Developer
 ![Dashboard](docs/upload.png)
 
 ### File Manager
-![File Manager](management-menu.png)
+![File Manager](docs/management-menu.png)
 
 
 
