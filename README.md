@@ -52,17 +52,16 @@ System Administrator & Full Stack Developer
 
 ## 📷 Screenshot
 
+### Login Page
+![Login](docs/login.png)
+
 ### Dashboard
 ![Dashboard](docs/dashboard.png)
 
 ### File Manager
-![File Manager](docs/file-manager.png)
+![File Manager](management-menu.png)
 
-### Upload File
-![Upload](docs/upload.png)
 
-### Server Architecture
-![Architecture](docs/architecture.png)
 
 ## 📚 Yang Saya Pelajari
 
