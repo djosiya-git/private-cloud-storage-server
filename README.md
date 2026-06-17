@@ -58,6 +58,12 @@ System Administrator & Full Stack Developer
 ### Dashboard
 ![Dashboard](docs/dashboard.png)
 
+### Download File / Folder
+![Dashboard](docs/download.png)
+
+### Upload File / Folder
+![Dashboard](docs/upload.png)
+
 ### File Manager
 ![File Manager](management-menu.png)
 
